@@ -1,0 +1,13 @@
+split,model,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+validation,Baseline (majority),0.8213,0.0,0.0,0.0,0.5,0.1787
+validation,Decision Tree,0.9294,0.7711,0.8606,0.8134,0.9235,0.797
+validation,Random Forest,0.968,0.9036,0.9187,0.9111,0.9935,0.9719
+validation,Naive Bayes,0.9306,0.7261,0.9819,0.8349,0.9836,0.88
+validation,MLP (ANN),0.965,0.8643,0.9535,0.9067,0.9951,0.9802
+validation,LSTM,0.9562,0.8183,0.9703,0.8878,0.9938,0.9728
+test,Baseline (majority),0.9674,0.0,0.0,0.0,0.5,0.0326
+test,Decision Tree,0.9791,0.6595,0.741,0.6979,0.8752,0.6299
+test,Random Forest,0.9885,0.8525,0.7831,0.8163,0.9968,0.915
+test,Naive Bayes,0.9736,0.5574,0.9217,0.6947,0.9925,0.778
+test,MLP (ANN),0.9859,0.7461,0.8584,0.7983,0.9958,0.9145
+test,LSTM,0.9856,0.706,0.9548,0.8118,0.997,0.9241

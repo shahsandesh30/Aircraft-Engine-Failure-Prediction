@@ -1,0 +1,6 @@
+,Caught (TP),Missed (FN),False alarms (FP),Recall,Precision,F1
+Decision Tree,22.0,3.0,4.0,0.88,0.8462,0.8627
+Random Forest,22.0,3.0,3.0,0.88,0.88,0.88
+Naive Bayes,24.0,1.0,4.0,0.96,0.8571,0.9057
+MLP (ANN),24.0,1.0,2.0,0.96,0.9231,0.9412
+LSTM,25.0,0.0,2.0,1.0,0.9259,0.9615
